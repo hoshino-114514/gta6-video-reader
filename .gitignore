@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+staging/
+thumbs/
+logs/
+*.mp4
+*.wav
+*.pcm
+*.bk2
+*.jpg
+*.png
